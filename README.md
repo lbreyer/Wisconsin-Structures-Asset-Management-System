@@ -1,6 +1,8 @@
 # Wisconsin-Structures-Asset-Management-System
 The Bureau of Structures (BOS) needs analysis tool for analyzing and forecasting potential roadway structure maintenance needs.
 
+Functionality Demonstration: https://www.youtube.com/watch?v=uQoPss8JAHM&ab_channel=LukeBreyer
+
 Project Description:
 The Wisconsin Department of Transportation’s (WisDOT) Bureau of Structures strives to maximize the useful life of bridges in a cost effective manner through approving federal funding toward preventative upkeep and maintenance projects on existing roadway structures. This process vastly decreases the likelihood of these structures developing major flaws or defects due to the natural wear cycle. It also significantly reduces the risk of catastrophic structure failure. As both of those occurrences represent a extremely large repair cost on top of a notable time investment, the preventative maintenance cycle works to improve the longevity of roadway structures while reducing overall construction costs.
 
